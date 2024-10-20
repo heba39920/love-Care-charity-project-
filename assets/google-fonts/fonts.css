@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Poppins', sans-serif;
+    src: url(Poppins-Bold.ttf),url(Poppins-Light.ttf),url(Poppins-Medium.ttf),url(Poppins-Regular.ttf),url(Poppins-ExtraBold.ttf),url(Poppins-Light.ttf),url(Poppins-Medium.ttf),url(Poppins-Regular.ttf),url(Poppins-SemiBold.ttf);
+}
+@font-face {
+    font-family: 'Patrick Hand', cursive;
+    src: url(PatrickHand-Regular.ttf);
+}
